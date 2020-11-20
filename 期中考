@@ -2,7 +2,7 @@
 Bandwidth(頻寬)指訊號所占據的頻帶寬度；用來表示耗用的資訊量位元速率，通常以測得的每秒數量表示。
 bps(bits per second) 位元速率代表單位時間內傳輸送或處理的位元的數量。
 2. RFID
-無線射頻辨識(Radio Frequency **ID** entification)可以通過無線電訊號識別特定目標並讀寫相關數據，而無需識別系統與特定目標之間建立機械或者光學接觸。
+無線射頻辨識(Radio Frequency IDentification)可以通過無線電訊號識別特定目標並讀寫相關數據，而無需識別系統與特定目標之間建立機械或者光學接觸。
 3. NFC
 近距離無線通訊(Near-field communication)是一種通訊協定,它讓兩個電子裝置在極短距離內用無線式通訊。
 
