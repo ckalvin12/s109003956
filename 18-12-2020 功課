@@ -1,13 +1,13 @@
 將8 bits 10010010 轉換成十進位數值 
 
-**(1)Signed-magnitude**
+#(1)Signed-magnitude
 [1]0010010
 Step 1: 它是負數
 Step 2: 計算magnitude(大小)
 2^4+2 = 18
 Step 3: 因此是  -18
 
-**##(2)1's Complement**
+#(2)1's Complement
 Step 1 : 它是負數
 Step 2-1: 先執行反相運算(inverse)
  10010010 ---> 01101101
@@ -16,7 +16,7 @@ Step 2-2: 計算大小
                               = 109
 Step 3 : 因此是 -109
 
-**##(3)2's Complement**
+#(3)2's Complement
 Step 1 : 它是負數
 Step 2 : 2-1: 10010001
          2-2: 01101110 =>  2^6+2^5+2^3+2^2+2 = 110
